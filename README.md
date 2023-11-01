@@ -1,3 +1,5 @@
+
+
 <!-- Title and Intro -->
 <h1 align="center">Hi there! 👋 I'm Kiruthika Ponneswaran</h1>
 <p align="center">Welcome to my GitHub profile! 🚀</p>
@@ -7,29 +9,17 @@
 
 <!-- Technology Icons -->
 <p align="center">
-  <a href="https://your-html-icon-link" target="_blank" rel="noopener">
-    <img src="https://your-html-icon-link" alt="HTML" width="100" height="100" />
-  </a>
-  <a href="https://your-css-icon-link" target="_blank" rel="noopener">
-    <img src="https://your-css-icon-link" alt="CSS" width="100" height="100" />
-  </a>
-  <a href="https://your-bootstrap-icon-link" target="_blank" rel="noopener">
-    <img src="https://your-bootstrap-icon-link" alt="Bootstrap" width="100" height="100" />
-  </a>
-  <a href="https://your-python-icon-link" target="_blank" rel="noopener">
-    <img src="https://your-python-icon-link" alt="Python" width="100" height="100" />
-  </a>
-  <a href="https://your-django-icon-link" target="_blank" rel="noopener">
-    <img src="https://your-django-icon-link" alt="Django" width="100" height="100" />
-  </a>
+  <img src="https://your-html-icon-link" alt="HTML" width="50" height="50" />
+  <img src="https://your-css-icon-link" alt="CSS" width="50" height="50" />
+  <img src="https://your-bootstrap-icon-link" alt="Bootstrap" width="50" height="50" />
+  <img src="https://your-python-icon-link" alt="Python" width="50" height="50" />
+  <img src="https://your-django-icon-link" alt="Django" width="50" height="50" />
 </p>
 
 <!-- Achievements and Trophy -->
 <p align="center">🏆 Achievements:</p>
 <p align="center">
-  <a href="https://your-trophy-icon-link" target="_blank" rel="noopener">
-    <img src="https://your-trophy-icon-link" alt="Trophy" width="200" height="200" />
-  </a>
+  <img src="https://your-trophy-icon-link" alt="Trophy" width="100" height="100" />
 </p>
 
 <!-- Get in Touch -->
