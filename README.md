@@ -6,15 +6,8 @@
 
 
 
-<p align="center">📫 Get in touch:</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/kiruthika-ponneswaran-72b16422a/" target="_blank" rel="noopener">
-    
-  </a>
-  <a href="mailto:kiruthikaponneswaran410@gmail.com" target="_blank" rel="noopener">
-    
-  </a>
-</p>
+<p align="center">📫 Get in touch:</p> https://www.linkedin.com/in/kiruthika-ponneswaran-72b16422a/
+<p align="center">mailto:kiruthikaponneswaran410@gmail.com</p>
 
 <p align="center">🔗 Explore my repositories to discover more about my work and projects.🛠️</p>
 
