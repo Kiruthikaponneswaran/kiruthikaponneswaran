@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiruthikaponneswaran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="center">👋 Hi, I'm Kiruthika Ponneswaran</h1>
 
 <p align="center">🚀 Welcome to my GitHub profile! I'm a Full-Stack Python Web Developer passionate about creating interactive web applications and dynamic websites.</p>
